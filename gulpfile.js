@@ -1,4 +1,14 @@
 var LIB_INF = {
+    "es5-shim": {
+        js: "es5-shim.js"
+    },
+    "modernizr": {
+        js: "modernizr.js"
+    },
+    "jquery": {
+        base: "dist",
+        js: "jquery.js"
+    },
     "angular": {
         js: "angular.js"
     },

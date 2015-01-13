@@ -1,6 +1,6 @@
 {
   "name": "MobileCampusLib",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "dependencies": {
     "angular": "~1.2.28",
     "angular-route": "~1.2.28",
@@ -23,6 +23,12 @@
     "xdate": "^0.8.1",
     "highcharts": "^3.0.10",
     "underscore": "^1.7.0",
+
+    "es5-shim": "*",
+    "fullcalendar": "*",
+    "jquery": "*",
+    "modernizr": "*",
+
     "xss": "^0.1.9"
 
   },
