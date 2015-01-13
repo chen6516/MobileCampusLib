@@ -1,5 +1,5 @@
 {
-  "name": "mobileCampusAllLib",
+  "name": "MobileCampusAllLib",
   "shortName": "mal",
   "version": "0.0.1",
   "description": "mobile lib all in one",
@@ -19,6 +19,13 @@
     "require-dir": "*",
     "underscore": "*"
   },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+
+  ],
   "scripts": {
 
   }
