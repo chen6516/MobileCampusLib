@@ -1,21 +1,25 @@
 {
-  "name": "mobileCampuses_admin",
-  "shortName": "amu",
+  "name": "mobileCampusAllLib",
+  "shortName": "mal",
   "version": "0.0.1",
-  "description": "do nice things for campuses life",
+  "description": "mobile lib all in one",
   "devDependencies": {
     "gulp": "~3.8.0",
     "gulp-concat": "^2.4.1",
+    "gulp-concat-util": "*",
     "gulp-foreach": "0.0.1",
     "gulp-jshint": "~1.4.2",
     "gulp-rename": "^1.2.0",
     "gulp-sourcemaps": "^1.2.2",
     "gulp-uglify": "^1.0.1",
     "gulp-util": "^3.0.1",
+    "gulp-load-plugins": "*",
+    "gulp-minify-css": "*",
     "shelljs": "^0.2.6",
-    "require-dir": "*"
+    "require-dir": "*",
+    "underscore": "*"
   },
   "scripts": {
-    "postinstall": "bower install"
+
   }
 }
