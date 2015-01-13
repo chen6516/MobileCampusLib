@@ -1,7 +1,7 @@
 {
   "name": "MobileCampusAllLib",
   "shortName": "mal",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "mobile lib all in one",
   "devDependencies": {
     "gulp": "~3.8.0",
