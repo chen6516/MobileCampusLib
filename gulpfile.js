@@ -41,7 +41,7 @@ var LIB_INF = {
     "angular-ui-bootstrap": {
         // 需要先打包
         base: "dist",
-        js: ["ui-bootstrap-0.12.0.js", "ui-bootstrap-tpls-0.12.0.js"]
+        js: "ui-bootstrap-tpls-0.12.0.js"
     },
     "animate.css": {
         css: "animate.css"
