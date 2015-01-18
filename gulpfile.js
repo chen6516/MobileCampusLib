@@ -56,11 +56,11 @@ var LIB_INF = {
         fonts:"fonts/*"
     },
 
-    "fullcalendar": {
+  /*  "fullcalendar": {
         base: "dist",
         css:"fullcalendar.css",
         js: "fullcalendar.js"
-    },
+    },*/
 
     "xdate": {
         base: "src",
